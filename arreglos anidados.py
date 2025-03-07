@@ -26,3 +26,10 @@ for ciudad, promedio in promedios.items():
     for semana, temp_promedio in enumerate(promedio):
         print(f"Promedio de temperaturas en {ciudad} - Semana {semana + 1}: {temp_promedio:.2f} °C")
         
+        
+    
+
+
+
+
+#coemntaario
